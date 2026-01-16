@@ -40,7 +40,7 @@ L’analyse par catégorie révèle que :
 - Renforcer la mise en avant des produits Technology, plus rentables, dans la région Central.
 - Ajuster la stratégie de prix / remises sur les Office Supplies pour améliorer la marge globale.
 
-🧠 Compétences démontrées:
+## 🧠 Compétences démontrées:
 - Nettoyage et préparation de données
 - Tableaux croisés dynamiques (TCD)
 - Création d’un dashboard Excel interactif
