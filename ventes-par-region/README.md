@@ -1,50 +1,55 @@
-📌 Projet 1 — Analyse des ventes par région et catégorie (Excel)
+📊 Analyse des ventes par région & catégorie – Dashboard Excel
 🎯 Objectif du projet
-Créer un tableau de bord interactif dans Excel pour analyser les performances des ventes par région et catégorie, identifier les zones sous-performantes et orienter les décisions commerciales.
+Analyser les performances commerciales d’une entreprise à travers :
+les ventes par région,
+les ventes par catégorie,
+des KPI clés (Total Ventes, Profit, Quantités, Marge),
+un dashboard interactif avec segments (région & catégorie).
+L’objectif est d’identifier les zones sous-performantes et d’apporter des recommandations business actionnables.
 
-🧠 Problématique métier
-L’entreprise constate des variations de performance selon les régions et souhaite :
-comprendre quelles zones performent le mieux,
-détecter les régions sous-performantes,
-identifier les catégories de produits les plus rentables,
-suivre les KPIs clés (ventes, marges, quantités, profits).
+🗂️ Dataset utilisé
+Superstore Dataset
+👉 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+Nettoyage effectué :
+colonnes inutiles supprimées
+gestion des valeurs manquantes
+conversion des formats
+creation d’un dataset propre pour analyse Excel
 
-🛠️ Compétences mobilisées / à acquérir
-Nettoyage et organisation de données dans Excel
-Calcul de KPIs : SUM, AVERAGE, % Contribution, Profitability
-Fonctions essentielles : SOMME(), MOYENNE(), SOMME.SI(), RECHERCHEV(), INDEX/EQUIV
-Création de Tableaux Croisés Dynamiques
-Création de segments pour filtrage interactif
-Visualisation : graphiques dynamiques & dashboard interactif
+📌 KPIs clés
+Total Ventes : 2 295 274 €
+Total Profit : 285 988 €
+Quantités vendues : 37 841
+Marge globale : 12,46 %
 
-📊 Méthodologie du projet
-Exploration du dataset
-Nettoyage (cohérence des régions, catégories, formats)
-Calcul des KPIs :
-Sales (CA)
-Quantity
-Profit
-Profit Ratio
-Contribution par région
-Création de TCD :
-Région × Catégorie
-Région × Profit
-Catégorie × Sales
-Construction d’un dashboard interactif avec segments
-Analyse et recommandations business
+📊 Dashboard final
+👉 Dashboard interactif (segments Région & Catégorie)
+Cliquez sur l’image pour l’ouvrir en grand 👇  
+Fichier Excel disponible : ventes-par-region.xlsx
 
-📈 Résultats obtenus (sera complété après création du dashboard)
-➡️ Top régions en chiffre d’affaires
-➡️ Catégories les plus performantes
-➡️ Régions à faible profit / perte
-➡️ Contribution de chaque région au CA total
-➡️ Insight clés pour actions commerciales
+🔍 Insights clés
+Les régions West et East génèrent les plus fortes ventes.
+La région Central affiche la marge la plus faible (7,89%) malgré un niveau de ventes correct.
+L’analyse par catégorie révèle que :
+Technology est rentable dans toutes les régions.
+À Central, Furniture génère une marge négative (-1,75%), ce qui tire la performance vers le bas.
+Le mix produit de la région Central est défavorable et explique la faible rentabilité globale.
 
-📦 Fichiers du projet
-ventes-par-region.xlsx (dataset nettoyé + analyses)
-dashboard.png (capture du dashboard Excel)
-README.md
+💡 Recommandations Business
+Réduire les promotions appliquées à la catégorie Furniture dans la région Central pour limiter les ventes à perte.
+Identifier et retirer les produits Furniture qui présentent une rentabilité structurellement négative.
+Renforcer la mise en avant des produits Technology, plus rentables, dans la région Central.
+Ajuster la stratégie de prix / remises sur les Office Supplies pour améliorer la marge globale.
 
-🗂️ Source des données
-Dataset : Superstore Dataset
-🔗 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
+🧠 Compétences démontrées
+Nettoyage et préparation de données
+Tableaux croisés dynamiques (TCD)
+Création d’un dashboard Excel interactif
+Analyse descriptive & business
+Formulation de recommandations basées sur les données
+Structuration d’un projet Data Analyst
+
+ventes-par-region/
+│── README.md
+│── dashboard.png
+│── ventes-par-region.xlsx
