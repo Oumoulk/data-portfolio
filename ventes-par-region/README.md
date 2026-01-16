@@ -1,4 +1,5 @@
 📊 Analyse des ventes par région & catégorie – Dashboard Excel
+
 🎯 Objectif du projet: Analyser les performances commerciales d’une entreprise à travers :
 les ventes par région,
 les ventes par catégorie,
