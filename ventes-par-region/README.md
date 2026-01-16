@@ -1,10 +1,8 @@
 📊 Analyse des ventes par région & catégorie – Dashboard Excel
 
-🎯 Objectif du projet: Analyser les performances commerciales d’une entreprise à travers :
-les ventes par région,
-les ventes par catégorie,
-des KPI clés (Total Ventes, Profit, Quantités, Marge),
-un dashboard interactif avec segments (région & catégorie).
+🎯 Objectif du projet: Analyser les performances commerciales d’une entreprise à travers
+les ventes par région,les ventes par catégorie,des KPI clés (Total Ventes, Profit, Quantités, Marge),un dashboard interactif avec segments (région & catégorie).
+
 L’objectif est d’identifier les zones sous-performantes et d’apporter des recommandations business actionnables.
 
 ## 🗂️ Dataset utilisé
