@@ -2,11 +2,11 @@
 
 Bienvenue sur mon Data Portfolio.
 Je suis Data Analyst spécialisée en Marketing, CRM, Retail Media & Performance Digitale, avec une expérience solide en :
-- analyse de performance business
-- optimisation de campagnes (ROAS, ROI, CPA)
-- construction de dashboards
-- automatisation et nettoyage de données
-- activation marketing orientée data
+- Analyse de performance business
+- Optimisation de campagnes (ROAS, ROI, CPA)
+- Construction de dashboards
+- Automatisation et nettoyage de données
+- Activation marketing orientée data
   
 Mon objectif : transformer les données en décisions business actionnables pour les équipes Marketing, Sales et Produit.
 
@@ -58,5 +58,7 @@ Ce portfolio documente mon évolution vers un niveau avancé en Data Analytics �
 
 ## 📬 Contact
 Email : oumoul.khairy.aidara1@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/oumoul-khairy-aidara
+
 Localisation : Paris, France
